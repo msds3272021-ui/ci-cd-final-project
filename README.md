@@ -2,6 +2,9 @@
 
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
 
+## CI/CD Tools and Practices Final Project Template
+- Project name: ci-cd-final-project
+
 ## Usage
 
 This repository is to be used as a template to create your own repository in your own GitHub account. No need to Fork it as it has been set up as a Template. This will avoid confusion when making Pull Requests in the future.
@@ -23,6 +26,8 @@ Then you must exit the shell and start a new one for the Python virtual environm
 ```bash
 exit
 ```
+
+
 
 ## Tasks
 
